@@ -1,0 +1,22 @@
+/* Reset styles */
+html, body, #root {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+}
+
+/* Global styles */
+.app-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+/* Custom styles for specific components/pages */
+/* Add your custom styles here */
