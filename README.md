@@ -19,7 +19,7 @@ This is a basic web application designed to manage subscription details for a pu
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/publishing-subscription-management`
+1. Clone the repository: `git clone https://github.com/paramw20/Publishing-Company1.git`
 2. Navigate to the project directory: `cd publishing-subscription-management`
 3. Install dependencies: `npm install`
 4. Configure database connection in `config.js` file.
